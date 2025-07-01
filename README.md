@@ -57,3 +57,16 @@ This project was built as a **CSS-only UI project**, aimed to explore:
 
 ## ✨ Made for practice and learning CSS basics.
 
+---
+
+## 👤 Author
+
+Made by Your Name
+Built with ❤️ for learning and fun!
+
+---
+
+## 📜 License
+
+MIT License
+

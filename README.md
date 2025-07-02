@@ -61,7 +61,7 @@ This project was built as a **CSS-only UI project**, aimed to explore:
 
 ## 👤 Author
 
-Made by Your Name
+Made by marahimu_kun
 Built with ❤️ for learning and fun!
 
 ---
